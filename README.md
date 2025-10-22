@@ -371,7 +371,7 @@ The **Educational Organisation Using ServiceNow** project successfully automates
 
 ---
 
-### **Overall Result:**
+## **Overall Result:**
 
 This project demonstrates the capability of **ServiceNow** as an educational management tool — providing automation, efficiency, and visibility across institutional processes, thus modernizing administrative workflows for educational organizations.
 
