@@ -369,6 +369,8 @@ The **Educational Organisation Using ServiceNow** project successfully automates
 * ✅ **Reduced Manual Work:** Automations minimize human errors and data redundancy.
 * ✅ **Centralized Platform:** Unified management of student information, admissions, and progress.
 
+---
+
 ### **Overall Result:**
 
 This project demonstrates the capability of **ServiceNow** as an educational management tool — providing automation, efficiency, and visibility across institutional processes, thus modernizing administrative workflows for educational organizations.
